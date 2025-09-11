@@ -2,4 +2,5 @@
 ### Notas de los retos de hacking
 
 - Nombre: Sergio González Chávez
-- Email. sergchioz@gmail.com  
+- Email. sergchioz@gmail.com
+- Usuario: SergioMXZ
